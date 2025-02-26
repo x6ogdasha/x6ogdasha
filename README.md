@@ -4,7 +4,7 @@
 
 ### Backend Development  
 - **Java**: Spring (Core, Boot, Web MVC, Data, Security), Hibernate  
-- **C#**: ASP.NET  
+- **C#**: ASP.NET Core, ASP.NET MVC 
 
 ### Databases & Messaging  
 - PostgreSQL, MongoDB  
