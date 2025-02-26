@@ -8,13 +8,13 @@
 
 ### Databases & Messaging  
 - PostgreSQL, MongoDB  
-- Apache Kafka, gRPC  
+- Apache Kafka, gRPC, REST
 
 ### DevOps & Tools  
 - Gradle, Docker, Bash, Git  
 
 ### Software Development Principles  
-- Microservices, REST API, Design Patterns  
+- Microservices, Design Patterns  
 - Algorithms & Data Structures  
 
 ---
